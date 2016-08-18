@@ -1,5 +1,5 @@
 context("Simple hello function")
 
-testthat("hello function prints hello", {
-  expect_output(hello(), "Hello")
+test_that("hello function prints hello", {
+  expect_message(hello(), "Hello")
 })
