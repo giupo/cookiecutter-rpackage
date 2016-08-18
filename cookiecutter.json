@@ -1,0 +1,11 @@
+{
+	"full_name": "Giuseppe Acito",
+	"email": "giuseppe.acito@gmail.com",
+	"github_username": "giupo",
+	"project_name": "R Boilerplate",
+	"repo_name": "boilerplate",
+	"project_short_description": "R Boilerplate contains all the boilerplate you need to create a R package.",
+	"release_date": "2016-01-01",
+	"year": "2016",
+	"version": "0.0.1"
+}
