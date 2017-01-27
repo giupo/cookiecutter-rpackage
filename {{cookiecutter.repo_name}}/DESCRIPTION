@@ -2,8 +2,8 @@ Package: {{cookiecutter.repo_name}}
 Title: {{cookiecutter.project_short_description}}
 Version: {{cookiecutter.version}}
 Authors@R: person("{{cookiecutter.first_name}}", "{{cookiecutter.last_name}}", email = "{{cookiecutter.email}}", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.0.3)
+Description: {{cookiecutter.project_short_description}}
+Depends: R (>= 3.1.0)
 License: What license is it under? see https://www.r-project.org/Licenses/
 LazyData: true
 Suggests:
